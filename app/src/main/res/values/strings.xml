@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheLostJournal</string>
+    <string name="scene_1_text">You open the journal…</string>
+    <string name="scene_1_choice1">Go to the church</string>
+    <string name="scene_1_choice2">Continue reading</string>
+    <string name="scene_2_text">The church is quiet…</string>
+    <string name="scene_2_choice1">Visit the bartender</string>
+    <string name="scene_2_choice2">Ignore the note</string>
+    <string name="todo">TODO</string>
+    <string name="story_text_goes_here">Story text goes here.</string>
+    <string name="choice_1">Choice 1</string>
+    <string name="choice_2">Choice 2</string>
+    <!-- Add more as needed -->
+</resources>
